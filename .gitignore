@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/raw datasets
+data/raw/
+data/interim/
+
+# Generated data
+data/processed/
+
+# Notebook and reports
+notebook/
+reports/
+
+# Tests
+tests/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
